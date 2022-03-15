@@ -1110,6 +1110,7 @@ class MainWindow(QMainWindow, WindowMixin):
             if self.label_file:
                 self.load_labels(self.label_file.shapes)
             self.set_clean()
+            self.set_dirty()
             self.canvas.setEnabled(True)
             self.adjust_scale(initial=True)
             self.paint_canvas()
