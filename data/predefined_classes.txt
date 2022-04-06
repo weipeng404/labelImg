@@ -1,6 +1,7 @@
 NoDefects
 Crack
 ElectrodeResidue
-BitPlate
 FiberOnEdge
 RobotArm
+MissingPiece
+OntopRidge
