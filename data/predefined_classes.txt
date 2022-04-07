@@ -5,4 +5,5 @@ FiberOnEdge
 RobotArm
 MissingPiece
 OntopRidge
+SealingDirt
 PieceOnEdge
