@@ -4,6 +4,7 @@ ElectrodeResidue
 FiberOnEdge
 RobotArm
 MissingPiece
-OntopRidge
+OnTopRidge
 SealingDirt
+WronglyCut
 PieceOnEdge
