@@ -8,4 +8,4 @@ OnTopRidge
 SealingDirt
 WronglyCut
 PieceOnEdge
-SkewPlate
+PlateOnGroove3
