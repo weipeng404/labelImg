@@ -7,5 +7,5 @@ MissingPiece
 SeparatorOnRidge
 SealingDirt
 SeparatorWronglyCut
-PieceOnEdge
+SeparatorPiece
 BiplateOnRidge3
