@@ -9,3 +9,4 @@ SealingDirt
 SeparatorWronglyCut
 SeparatorPiece
 BiplateOnRidge3
+SeparatorFolded
